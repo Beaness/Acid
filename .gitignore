@@ -1,0 +1,7 @@
+# IntellIJ
+.idea
+
+# Gradle & run-paper
+.gradle
+build
+run

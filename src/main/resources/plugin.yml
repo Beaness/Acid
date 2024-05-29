@@ -1,0 +1,7 @@
+name: Acid
+version: '${version}'
+main: me.beanes.acid.Acid
+author: Beanes
+description: funny little anticheat
+depend:
+  - packetevents
